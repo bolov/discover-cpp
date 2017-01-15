@@ -93,7 +93,7 @@ struct Foo {
 
 + A ctor that accept no arguments is called a *default constructor*.
 
-+ If a default constructor is not explicitly declared, a deafult one will be implicitly generated
++ If no ctor is explicitly declared, a deafult one will be implicitly generated
 
 + Some special methods, default constructor included, can be defaulted. (`=default`)
 
