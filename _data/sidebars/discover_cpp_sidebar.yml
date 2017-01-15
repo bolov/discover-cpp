@@ -1,0 +1,29 @@
+entries:
+
+- title: Sidebar
+  product: Discover C++
+  folders:
+
+    - title: Qick Start
+      output: web
+      folderitems:
+          - title: Quick Start
+            url: /quick_start.html
+            output: web
+
+    - title: Classes
+      output: web
+      folderitems:
+          - title: Classes
+            url: /classes.html
+            output: web
+          - title: Data members & Methods
+            url: /data_members_methods
+            output: web
+          - title: Special Methods
+            url: /special_methods.cpp
+            output: web
+          - title: Operator overloading
+            url: /operator_overloading
+            output: web
+
