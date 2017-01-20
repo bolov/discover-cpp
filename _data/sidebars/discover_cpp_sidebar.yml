@@ -15,15 +15,15 @@ entries:
       output: web
       folderitems:
           - title: Classes
-            url: /classes.html
+            url: /classes_x.html
             output: web
-          - title: Data members & Methods
-            url: /data_members_methods
+          - title: Data members Methods
+            url: /data_members_methods.html
             output: web
           - title: Special Methods
-            url: /special_methods.cpp
+            url: /special_methods.html
             output: web
           - title: Operator overloading
-            url: /operator_overloading
+            url: /operator_overloading.html
             output: web
 
