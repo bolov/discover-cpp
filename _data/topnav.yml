@@ -6,7 +6,9 @@ topnav:
     - title: About
       url: /about
     - title: Discover C++
-      url: /quick_start.html
+      url: /crash-course.html
+    - title: Exercises
+      url: /exercises-motivation.html
 
 #Topnav dropdowns
 # topnav_dropdowns:

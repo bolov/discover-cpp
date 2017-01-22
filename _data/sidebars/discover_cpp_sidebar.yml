@@ -4,26 +4,26 @@ entries:
   product: Discover C++
   folders:
 
-    - title: Qick Start
+    - title: Crash Course
       output: web
       folderitems:
-          - title: Quick Start
-            url: /quick_start.html
+          - title: Crash Course
+            url: /crash-course.html
             output: web
 
     - title: Classes
       output: web
       folderitems:
           - title: Classes
-            url: /classes_x.html
+            url: /classes.html
             output: web
-          - title: Data members Methods
-            url: /data_members_methods.html
+          - title: Data members & Methods
+            url: /data-members-methods.html
             output: web
           - title: Special Methods
-            url: /special_methods.html
+            url: /special-methods.html
             output: web
           - title: Operator overloading
-            url: /operator_overloading.html
+            url: /operator-overloading.html
             output: web
 

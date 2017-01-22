@@ -1,0 +1,35 @@
+entries:
+
+- title: Sidebar
+  product: Exercises
+  folders:
+
+      - title: Exercises
+        output: web
+        folderitems:
+            - title: Motivation
+              url: /exercises-motivation.html
+              output: web
+
+      - title: Classes
+        output: web
+        folderitems:
+            - title: Classes
+              url: /exercieses-classes.html
+              output: web
+            - title: Data members & Methods
+              url: /exercies-members.html
+              output: web
+            - title: Special Methods
+              url: /exercises-special-methods.html
+              output: web
+            - title: Operator overloading
+              url: /exercises-operator-overloading.html
+              output: web
+            - title: Stack
+              url: /exercises-stack
+              output: web
+            - title: Queue
+              url: /exercises-queue
+              output: web
+

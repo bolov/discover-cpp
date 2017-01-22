@@ -1,11 +1,18 @@
 ---
-title: Quick Start
-tags: [quickstart]
+title: Crash Course
+tags: []
 keywords: intro
-summary: "Quick intro into C++"
+summary: "Crash course into C++"
 sidebar: discover_cpp_sidebar
-permalink: quick_start.html
+permalink: crash-course.html
 ---
+
+## About
+
+This is a quick glimpse into C++.
+
+It is intended or for those who are new to C++ and need a quick reference/reminder.
+
 
 ## Classes
 
@@ -14,7 +21,7 @@ permalink: quick_start.html
 You declare a class with the `struct` or `class` keyword:
 
 ```cpp
-struct Empty_Class {
+struct Empty_class {
 };
 ```
 
