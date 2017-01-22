@@ -14,22 +14,22 @@ entries:
       - title: Classes
         output: web
         folderitems:
-            - title: Classes
-              url: /exercieses-classes.html
-              output: web
-            - title: Data members & Methods
-              url: /exercies-members.html
-              output: web
-            - title: Special Methods
-              url: /exercises-special-methods.html
-              output: web
-            - title: Operator overloading
-              url: /exercises-operator-overloading.html
-              output: web
-            - title: Stack
-              url: /exercises-stack
-              output: web
+#            - title: Classes
+#              url: /exercieses-classes.html
+#              output: web
+#            - title: Data members & Methods
+#              url: /exercies-members.html
+#              output: web
+#            - title: Special Methods
+#              url: /exercises-special-methods.html
+#              output: web
+#            - title: Operator overloading
+#              url: /exercises-operator-overloading.html
+#              output: web
+#            - title: Stack
+#              url: /exercises-stack.html
+#              output: web
             - title: Queue
-              url: /exercises-queue
+              url: /exercises-queue.html
               output: web
 

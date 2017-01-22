@@ -14,6 +14,8 @@ company_name:
 github_editme_path:
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
+repository: "bolov/discover-cpp"
+
 disqus_shortname:
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
